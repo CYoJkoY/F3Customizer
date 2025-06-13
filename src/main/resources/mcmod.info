@@ -1,0 +1,16 @@
+[
+{
+  "modid": "f3customizer",
+  "name": "f3customizer",
+  "description": "F3自定义",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: PotionTimer
+Implementation-Version: 0.0.1
+Specification-Vendor:  
+Specification-Title: PotionTimer
+Implementation-Timestamp: 2025-06-14T07:03:13+0800
+Specification-Version: 1
+Implementation-Vendor:  
+
